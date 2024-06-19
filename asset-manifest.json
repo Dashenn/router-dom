@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dashenn/router-dom.git/static/css/main.625538c3.css",
+    "main.js": "/Dashenn/router-dom.git/static/js/main.68d4dea2.js",
+    "index.html": "/Dashenn/router-dom.git/index.html",
+    "main.625538c3.css.map": "/Dashenn/router-dom.git/static/css/main.625538c3.css.map",
+    "main.68d4dea2.js.map": "/Dashenn/router-dom.git/static/js/main.68d4dea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625538c3.css",
+    "static/js/main.68d4dea2.js"
+  ]
+}
